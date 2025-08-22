@@ -1,2 +1,3 @@
 # Peer-graded-Assignment
-This is a peer graded asignment that is just based on th epractic e after doing a particular course series on coursera plus subscription
+This is just a repository consisting of all the solutions to exercises being asked in coursera peer graded lab assignment
+Just a small effort from my side:)
